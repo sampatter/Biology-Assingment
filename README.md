@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Learning github for Fun!
 
-You can use the [editor on GitHub](https://github.com/sampatter/Biology-Assingment/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sampatter/Biology-Assingment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Q1. When should you use Git for a project?
+- A1. git is an exllenct tool for programmers and biologists working with larger data sets or collrabrative projects. This platform allows many collaborators to access a project, such as a pice of code, and provide changes and comments. However version control is avaliable for projects, this means that moderators or collabroators will have a historical record of past versions and there changes. git hub tracks changes between collabroators on a project and is espicially usefull when many vbersions of the same project are being consitently modified. A good rule of thumb for this question is "if you would be upset to loose the work - store it on github". 
+- Q2. What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git repo?
+- A2.
