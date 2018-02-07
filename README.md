@@ -23,21 +23,21 @@
 - A5. 
 
 Pro
->> Remote access to files and projects with wife access. 
->> Total back up for files and version control.
->> Access to international resources. 
->> Low cost and free access for basic functions. 
->> Produce high quality publications and projects. 
->> Potential for collaboration.
+- Remote access to files and projects with wife access. 
+- Total back up for files and version control.
+- Access to international resources. 
+- Low cost and free access for basic functions. 
+- Produce high quality publications and projects. 
+- Potential for collaboration.
 
 Con 
->> Public access repositories and project materials stored in online server - security risk. 
->> Learning curve for new users and non-tech savvy workers. 
->> github limits the size of files that may be uploaded. 
+- Public access repositories and project materials stored in online server - security risk. 
+- Learning curve for new users and non-tech savvy workers. 
+- github limits the size of files that may be uploaded. 
 
 Public vs Private - Pros and cons
->> Collocation by other users, and easy access for multiple users - Public 
->> Anyone can access your work - Public 
->> Cost associated with Service - Private 
->> Can open networking options - Public 
->> Storage limits - Public
+- Collocation by other users, and easy access for multiple users - Public 
+- Anyone can access your work - Public 
+- Cost associated with Service - Private 
+- Can open networking options - Public 
+- Storage limits - Public
