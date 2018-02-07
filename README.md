@@ -21,18 +21,21 @@
 - Q5. Your boss has no idea what Git is or why you are using it. a) Explain the pros / cons of using Git for your research project. b) Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/GitLab/etc.
 
 - A5. 
-###a) Pro
+
+Pro
 >> Remote access to files and projects with wife access. 
 >> Total back up for files and version control.
 >> Access to international resources. 
 >> Low cost and free access for basic functions. 
 >> Produce high quality publications and projects. 
 >> Potential for collaboration.
-###a) Con 
+
+Con 
 >> Public access repositories and project materials stored in online server - security risk. 
 >> Learning curve for new users and non-tech savvy workers. 
 >> github limits the size of files that may be uploaded. 
-###b) Public vs Private - Pros and cons
+
+Public vs Private - Pros and cons
 >> Collocation by other users, and easy access for multiple users - Public 
 >> Anyone can access your work - Public 
 >> Cost associated with Service - Private 
